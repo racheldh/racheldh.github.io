@@ -346,7 +346,7 @@ a:focus, a:hover, a:active {
 }
 
 .btn {
-  border-width: 2px;
+  border-width: 1px;
 }
 
 .bg-primary {
