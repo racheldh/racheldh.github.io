@@ -180,8 +180,8 @@ header.masthead {
 }
 
 header.masthead h1 {
-  font-size: 3rem;
-  line-height: 3rem;
+  font-size: 2rem;
+  line-height: 2rem;
 }
 
 header.masthead h2 {
@@ -191,15 +191,15 @@ header.masthead h2 {
 
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: calc(6rem + 106px);
-    padding-bottom: 6rem;
+    padding-top: calc(3rem + 106px);
+    padding-bottom: 3rem;
   }
   header.masthead h1 {
-    font-size: 4.75em;
+    font-size: 2rem;
     line-height: 4rem;
   }
   header.masthead h2 {
-    font-size: 1.75em;
+    font-size: 1.3rem;
   }
 }
 
@@ -280,7 +280,7 @@ header.masthead h2 {
 
 .floating-label-form-group input,
 .floating-label-form-group textarea {
-  font-size: 1.5em;
+  font-size: 1em;
   position: relative;
   z-index: 1;
   padding-right: 0;
@@ -294,7 +294,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group label {
-  font-size: 0.85em;
+  font-size: 0.8em;
   line-height: 1.764705882em;
   position: relative;
   z-index: 0;
