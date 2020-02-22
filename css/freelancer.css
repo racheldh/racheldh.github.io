@@ -72,7 +72,7 @@ section h2 {
 
 @media (min-width: 992px) {
   section h2 {
-    font-size: 3rem;
+    font-size: 2.1rem;
     line-height: 2.5rem;
   }
 }
@@ -267,7 +267,7 @@ header.masthead h2 {
     margin: 3rem calc(3rem - 8px);
   }
   .portfolio-modal .portfolio-modal-dialog h2 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }
 
